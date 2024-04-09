@@ -1,7 +1,7 @@
 # LucyAndMischief
 ## Lost Cats - Lucy and Mischief
   
-[ git.io - Lucy and Mischief webpage ](http://www.nanjizal.github.io/lucyandmischief/)
+[ git.io - Lucy and Mischief webpage ](nanjizal.github.io/LucyAndMischief/)
   
 Lost on - 26 March 2024 at 7pm.
 Lost at Rosemary Lodge Vet's carpark.
