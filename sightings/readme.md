@@ -1,1 +1,1 @@
-[<img src="sightings/IMG_1986.jpg>]()
+[<img src="sightings/IMG_1986.jpg>"]()
