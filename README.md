@@ -1,4 +1,9 @@
 # LucyAndMischief
+
+## UPDATE - Great news found !!:  
+Mischief was found in Entry Hill Golf course, approximately 3-4 months later. It took lots of effort to capture her over many weeks, but she is happy and at home.  
+Lucy microchip was read on the 23rd of September 2026, she now lives on Wellsway and is known as Felix, living with a friendly family that looked after her. She loves exploring the woods below the football club. So the other side of the road from Entry Hill Golf course.
+
 ## Lost Cats - Lucy and Mischief
   
 [ git.io - Lucy and Mischief webpage ](https://nanjizal.github.io/LucyAndMischief/)
